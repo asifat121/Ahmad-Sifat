@@ -1,4 +1,4 @@
-# Ahmad-Sifat
+# Ahmad Sifat
 ### Data Analyst | Python Developer | Web Scraping & Machine Learning
 
 - 📍 Rajshahi, Bangladesh
