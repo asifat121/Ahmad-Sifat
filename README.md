@@ -6,7 +6,7 @@
 - [GitHub](https://github.com/sifat121)
 - [LinkedIn](https://www.linkedin.com/in/a-sifat/)
 
-## About Me
+### About Me
 I am a Data Analyst and Python Developer with a strong background in Information & Communication Engineering. I specialize in data extraction, transformation, analysis, and automation, turning raw and unstructured data into actionable insights.
 
 My experience spans web scraping, ETL pipelines, machine learning models, and analytical reporting. I enjoy building reliable, production-ready solutions and continuously improving my technical skill set through hands-on projects.
