@@ -1,5 +1,5 @@
 # Ahmad-Sifat
-**Data Analyst | Python Developer | Web Scraping & Machine Learning**
+### Data Analyst | Python Developer | Web Scraping & Machine Learning
 
 - 📍 Rajshahi, Bangladesh
 - [Email] (asifat121@gmail.com)
