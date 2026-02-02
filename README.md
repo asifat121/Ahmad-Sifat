@@ -2,9 +2,9 @@
 ### Data Analyst | Python Developer | Web Scraping & Machine Learning
 
 - 📍 Rajshahi, Bangladesh
-- [Email] (asifat121@gmail.com)
-- [GitHub](https://github.com/sifat121)
-- [LinkedIn](https://www.linkedin.com/in/a-sifat/)
+- [Email]: (asifat121@gmail.com)
+- GitHub: `github.com/sifat121`
+- LinkedIn: (https://www.linkedin.com/in/a-sifat/)
 
 ### About Me
 I am a Data Analyst and Python Developer with a strong background in Information & Communication Engineering. I specialize in data extraction, transformation, analysis, and automation, turning raw and unstructured data into actionable insights.
