@@ -65,8 +65,8 @@ My experience spans web scraping, ETL pipelines, machine learning models, and an
 
 ## 🎓 Education
 **B.Sc. in Information & Communication Engineering**
-- *Bangladesh Army University of Engineering & Technology (BAUET)*
-> 🎓 CGPA: 3.37                                   📅 2021 – 2025
+- *Bangladesh Army University of Engineering & Technology (BAUET)*                                                                            *📅Feb 2021 – Jan 2025*
+> 🎓 CGPA: 3.37
 
 
 ## 📜 Certifications
