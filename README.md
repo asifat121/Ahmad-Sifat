@@ -2,7 +2,7 @@
 ### Data Analyst | Python Developer | Web Scraping & Machine Learning
 
 - 📍 Rajshahi, Bangladesh
-- [Email]: (asifat121@gmail.com)
+- [Email] (asifat121@gmail.com)
 - GitHub: `github.com/sifat121`
 - LinkedIn: (https://www.linkedin.com/in/a-sifat/)
 
